@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  Email-me.vedantshukla21@gmail.com
+- 📫 How to reach me  Email-me.vedantshukla28@gmail.com
 
 <!---
 AFr-aID/AFr-aID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
